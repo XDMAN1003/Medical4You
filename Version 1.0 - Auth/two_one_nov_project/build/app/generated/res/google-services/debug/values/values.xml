@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">498809663607-mm7pa0lu5pa9ulhhoda40l8d7eeq2dpp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://medical4you-fd859.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">498809663607</string>
+    <string name="google_api_key" translatable="false">AIzaSyCJmoSD2FYuzz-uN4nw5y68wr9TqXnxitU</string>
+    <string name="google_app_id" translatable="false">1:498809663607:android:5cfb70369e1acbc2d5d672</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJmoSD2FYuzz-uN4nw5y68wr9TqXnxitU</string>
+    <string name="google_storage_bucket" translatable="false">medical4you-fd859.appspot.com</string>
+    <string name="project_id" translatable="false">medical4you-fd859</string>
+</resources>
