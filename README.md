@@ -26,7 +26,7 @@ Version 2.2 : Emergency Call (Finalize)
 
 ```
 ## Sprint 3
-Include UC008 - Make an Online Payment, UC009 - Check Payment 
+Include UC008 - Make an Online Payment, UC009 - Check Payment, UC011 - View Health Report
 ```
 Version 3.0 : Health Report & Payment 
 💀 Bug: Different payment method does not show the respective payment details
